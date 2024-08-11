@@ -12,11 +12,11 @@ I specialize in building MVPs (Minimum Viable Products) for ideas, helping you q
 Projects with industrial use cases of GenAI
 
 ## 🔭 I’m currently working on
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dibyendutapadar&repo=ai-learning-flashcards&theme=radical)]
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dibyendutapadar&repo=ai-learning-flashcards&theme=radical)
 
 ## 📫 Latest Projects:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dibyendutapadar&repo=ai-agent-image-analyzer&theme=radical)]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dibyendutapadarrepo=&chat-with-pdf&theme=radical)]
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dibyendutapadar&repo=ai-agent-image-analyzer&theme=radical)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dibyendutapadar&repo=&chat-with-pdf&theme=radical)
 
 #### Total Lines of code
 ![Lines of code](https://img.shields.io/badge/Total%20Lines%20of%20code-5%20million%20lines-green)
