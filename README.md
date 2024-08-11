@@ -7,9 +7,13 @@ Product Manager by profession. Product developer my passion.
 
 I specialize in building MVPs (Minimum Viable Products) for ideas, helping you quickly bring your concepts to life with functional prototypes. Whether it's a web application, chatbot, or AI-powered solution, I can turn your vision into reality.
 
-
 ### 👯 I’m looking to collaborate on
 Projects with industrial use cases of GenAI
+
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/dibyendu-tapadar/)
+- [Portfolio](https://dibs-portfolio.streamlit.app/)
 
 ## 🔭 I’m currently working on
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dibyendutapadar&repo=ai-learning-flashcards&theme=radical)
@@ -21,9 +25,15 @@ Projects with industrial use cases of GenAI
 #### Total Lines of code
 ![Lines of code](https://img.shields.io/badge/Total%20Lines%20of%20code-5%20million%20lines-green)
 
+## 📊 GitHub Analytics
+
+![Dibyendu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dibyendutapadar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dibyendutapadar&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=dibyendutapadar&color=blue)
 
 
-### 🌟 My Project Cabinet
+
+## 🌟 My Project Cabinet
 
 ### 🔍 Chat with Local Documents
 **Keywords**: LLM, RAG, LangChain, document extraction
@@ -50,17 +60,10 @@ An application to optimize traffic signal durations based on real-time data.
 An application to optimize delivery routes among city delivery agents using OR-Tools.
 
 
-## 📊 GitHub Analytics
 
-![Dibyendu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dibyendutapadar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dibyendutapadar&layout=compact&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=dibyendutapadar&color=blue)
 
 ---
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/dibyendu-tapadar/)
-- [Portfolio](https://dibs-portfolio.streamlit.app/)
 
 
 
