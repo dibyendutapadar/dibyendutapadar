@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 # 👨‍💻 Dibyendu Tapadar
+Product Manager by profession. Product developer my passion.
 
 ## 💼 My Services
 
@@ -9,19 +10,17 @@ I specialize in building MVPs (Minimum Viable Products) for ideas, helping you q
 
 ### 👯 I’m looking to collaborate on
 Projects with industrial use cases of GenAI
-![Lines of code](https://img.shields.io/badge/Total%20Lines%20of%20code-5%20million%20lines-green)
 
 ## 🔭 I’m currently working on
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dibyendutapadar&repo=ai-learning-flashcards&theme=radical)]
 
 ## 📫 Latest Projects:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dibyendutapadar&repo=ai-agent-image-analyzer&theme=radical)]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dibyendutapadar&chat-with-pdf&theme=radical)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dibyendutapadarrepo=&chat-with-pdf&theme=radical)]
 
+#### Total Lines of code
+![Lines of code](https://img.shields.io/badge/Total%20Lines%20of%20code-5%20million%20lines-green)
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dibyendutapadar&theme=onedark)](https://github.com/dibyendutapadar/github-profile-trophy)
 
 
 ### 🌟 My Project Cabinet
