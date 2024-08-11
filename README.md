@@ -7,7 +7,7 @@
 
 ![Lines of code](https://img.shields.io/badge/Total%20Lines%20of%20code-5%20million%20lines-green)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dibyendutapadar&repo=your-repo-name&theme=radical)](https://github.com/dibyendutapadar/your-repo-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dibyendutapadar&repo=travel-agent-crewai&theme=radical)](https://github.com/dibyendutapadar/ai-agent-image-analyzer)
 
 ## 🏆 GitHub Trophies
 
