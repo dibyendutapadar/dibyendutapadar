@@ -2,6 +2,18 @@
 
 # 👨‍💻 Dibyendu Tapadar
 
+
+
+
+![Lines of code](https://img.shields.io/badge/Total%20Lines%20of%20code-5%20million%20lines-green)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dibyendutapadar&repo=your-repo-name&theme=radical)](https://github.com/dibyendutapadar/your-repo-name)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dibyendutapadar&theme=onedark)](https://github.com/dibyendutapadar/github-profile-trophy)
+
+
 ## 🌟 My Projects
 
 ### 🔍 Chat with Local Documents
