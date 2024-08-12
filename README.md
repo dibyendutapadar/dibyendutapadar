@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 👨‍💻 Dibyendu Tapadar
-Product Manager by profession. Product developer my passion.
+Product Manager by profession. Product developer by passion.
 
 ## 💼 My Services
 
