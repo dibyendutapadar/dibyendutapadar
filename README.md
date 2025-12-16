@@ -11,7 +11,7 @@ Product Manager by profession. Product developer by passion.
 
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/dibyendutapadar&query=$.public_repos&label=Public%20Repos) 
 
-![Latest](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/dibyendutapadar/repos?sort=created&query=$[0].name&label=Latest)  ![Previous](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/dibyendutapadar/repos?sort=created&query=$[1].name&label=Previous) ![Prior](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/dibyendutapadar/repos?sort=created&query=$[1].name&label=Prior)
+![Latest](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/dibyendutapadar/repos?sort=created&query=$[0].name&label=Latest)  ![Previous](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/dibyendutapadar/repos?sort=created&query=$[1].name&label=Previous) ![Prior](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/dibyendutapadar/repos?sort=created&query=$[2].name&label=Prior)
 
 
 
