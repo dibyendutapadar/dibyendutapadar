@@ -8,11 +8,15 @@ Product Manager by profession. Product developer by passion.
 - [LinkedIn](https://www.linkedin.com/in/dibyendu-tapadar/)
 - [Portfolio](https://dibyendupm.com/)
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=dibyendutapadar)
 
-![Lines of code](https://img.shields.io/badge/Total%20Lines%20of%20code-5%20million%20lines-green)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/dibyendutapadar&query=$.public_repos&label=Public%20Repos) 
 
-![Profile Views](https://komarev.com/ghpvc/?username=dibyendutapadar&color=blue)
+![Latest](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/dibyendutapadar/repos?sort=created&query=$[0].name&label=Latest)  ![Previous](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/dibyendutapadar/repos?sort=created&query=$[1].name&label=Previous) ![Prior](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/dibyendutapadar/repos?sort=created&query=$[1].name&label=Prior)
+
+
+
+
+
 
 
 
