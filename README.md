@@ -8,6 +8,7 @@ Product Manager by profession. Product developer by passion.
 - [LinkedIn](https://www.linkedin.com/in/dibyendu-tapadar/)
 - [Portfolio](https://dibyendupm.com/)
 
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=dibyendutapadar)
 
 ![Lines of code](https://img.shields.io/badge/Total%20Lines%20of%20code-5%20million%20lines-green)
 
